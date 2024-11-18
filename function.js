@@ -9,4 +9,5 @@ console.log(subtract(1, 2));
 const multipply = (a, b) => a * b;
 console.log(multipply(2, 2));
 
-console.log(add(1, 3));
+const mathsin = (number) => Math.sin(number);
+console.log(mathsin(10));
